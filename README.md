@@ -11,7 +11,7 @@
 * Site Adapts to Viewport.
 
 # Screen Shot:  
-(Will Update after github Upload)
+![Preview](assets\images\TM-PortfolioSS.png)
 
 # Deployed Website:
-(Will Update after github Upload)
+[TM-Portfolio-1](https://t0930.github.io/TM-Portfolio-1/)
