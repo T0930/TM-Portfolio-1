@@ -11,7 +11,7 @@
 * Site Adapts to Viewport.
 
 # Screen Shot:  
-![Preview](https://github.com/T0930/TM-Portfolio-1/blob/main/assets/images/TM-PortfolioSS.png?raw=true)
+![Preview](https://github.com/T0930/TM-Portfolio-1/blob/main/assets/images/TM-Portfolio-Update.png?raw=true)
 
 # Deployed Website:
 [TM-Portfolio-1](https://t0930.github.io/TM-Portfolio-1/)
