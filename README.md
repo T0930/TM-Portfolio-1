@@ -5,9 +5,9 @@
 
 * Developer's Name / Placeholder for Photo / Links to "About" , "Work", and "Contact".
 * Clickable Links for "About", "Work", and "Contact" in Header Section.  Each Link Scrolls to Respective Section.
-* Titled Images for Developer's Placeholder Applications.
+* Titled Images for Developer's Placeholder and Deployed Applications.
 * First Application Image is the Largest Image.
-* All Application Images are Linked to Developer's Placeholder github.
+* All Application Images are Linked to Developer's Placeholder and Deployed Applications Through github.
 * Site Adapts to Viewport.
 
 # Screen Shot:  
