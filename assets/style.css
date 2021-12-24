@@ -107,15 +107,12 @@ a:hover {
   color: white;
   display: flex;
   flex-direction: row;
-  padding: 20px;
-  /* height: 100px; */
-  /* width: 100px; */
+  padding: 20px; 
 }
 
 .projects figure {
   margin: auto;
   text-align: center;
-  /* width: 200px; */
 }
 
 .projects figure img {
@@ -125,7 +122,7 @@ a:hover {
   height: 250px;
 }
 
-@media screen and (max-width: 880px) {
+@media screen and (max-width: 1260px) {
   .projects {
     display: block;
   }
