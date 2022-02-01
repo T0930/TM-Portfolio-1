@@ -82,7 +82,7 @@ h2 {
 
 .mainproject figure img {
   border: 3px solid blue;
-  border-radius: 50%;
+  border-radius: 30px;
 }
 
 .hoverpic:hover {
